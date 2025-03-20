@@ -61,8 +61,6 @@ I'm a passionate software developer with over **3 years of experience** in web d
 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-j-joshi/)  
 💻 [GitHub](https://github.com/JptmJ)  
 🌍 [Portfolio](https://prathamjoshi.netlify.app)
-
-🐦 [Twitter](https://twitter.com/JoshiPratham11)  
 📝 [Dev.to](https://dev.to/pratham_joshi)  
 📚 [Stack Overflow](https://stackoverflow.com/users/22191231/pratham-jagdishbhai-joshi)  
 📚 [Medium](https://medium.com/@joshiptm797)  
