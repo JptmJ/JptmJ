@@ -60,7 +60,7 @@ I'm a passionate software developer with over **3 years of experience** in web d
 📧 [joshiptm797@gmail.com](mailto:joshiptm797@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/pratham-j-joshi/)  
 💻 [GitHub](https://github.com/JptmJ)  
-🌍 [Portfolio](https://prathamjoshi.netlify.app)
+🌍 [Portfolio](https://prathamjoshi.netlify.app)  
 📝 [Dev.to](https://dev.to/pratham_joshi)  
 📚 [Stack Overflow](https://stackoverflow.com/users/22191231/pratham-jagdishbhai-joshi)  
 📚 [Medium](https://medium.com/@joshiptm797)  
