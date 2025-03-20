@@ -30,13 +30,46 @@ I'm a passionate software developer with over **3 years of experience** in web d
 ---
 
 ## 🛠️ Skills  
-**Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Angular  
-**Backend:** Node.js, Python, PHP, Java  
-**Databases:** MongoDB, MySQL, Neo4j  
-**API:** RESTful, GraphQL  
-**DevOps:** CI/CD, Docker, Git, Cypress  
-**AI:** LLM, RAG, Knowledge Graphs  
-**Other:** Debugging, Code Review, Agile (Scrum), Jira  
+### **💻 Frontend Development**  
+✅ HTML5, CSS3, JavaScript (ES6+), TypeScript  
+✅ React.js, Angular, Next.js  
+✅ State Management (Redux, Context API)  
+✅ Component-Based Architecture, Performance Optimization  
+
+### **🖥️ Backend Development**  
+✅ Node.js, Python, PHP, Java  
+✅ RESTful APIs, GraphQL  
+✅ Microservices Architecture  
+✅ Express.js, Nest.js  
+
+### **📂 Database Management**  
+✅ MongoDB, MySQL, PostgreSQL, Neo4j  
+✅ Data Modeling, Query Optimization  
+✅ Knowledge Graphs  
+
+### **🔍 AI & Machine Learning**  
+✅ Retrieval-Augmented Generation (RAG)  
+✅ LangChain, OpenAI APIs  
+✅ TensorFlow, PyTorch  
+✅ LLM (Large Language Models) Integration  
+
+### 🛡️ DevOps & Deployment  
+✅ Familiar with CI/CD (GitHub Actions, Jenkins)  
+✅ Good understanding of Docker, and basic understanding of Kubernetes  
+✅ Exposure to AWS, Azure  
+✅ Exoerties in SonarCloud and SonarCube  
+✅ Knowledge of Load Balancing and High Availability principles  
+
+### **🛠️ Testing & Debugging**  
+✅ Cypress, Jest, Mocha  
+✅ Unit Testing, Integration Testing  
+✅ Code Review, Performance Tuning  
+
+### **🧠 Other Skills**  
+✅ Version Control (Git, GitHub)  
+✅ Agile (Scrum, Kanban)  
+✅ Jira, Slack, Asana  
+✅ Problem Solving & Algorithm Design  
 
 ---
 
@@ -62,6 +95,6 @@ I'm a passionate software developer with over **3 years of experience** in web d
 💻 [GitHub](https://github.com/JptmJ)  
 🌍 [Portfolio](https://prathamjoshi.netlify.app)  
 📝 [Dev.to](https://dev.to/pratham_joshi)  
-📚 [Stack Overflow](https://stackoverflow.com/users/22191231/pratham-jagdishbhai-joshi)  
+💡 [Stack Overflow](https://stackoverflow.com/users/22191231/pratham-jagdishbhai-joshi)  
 📚 [Medium](https://medium.com/@joshiptm797)  
 
